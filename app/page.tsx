@@ -8,7 +8,7 @@ import {
   NavbarLink,
   NavbarToggle,
   Button,
-  DarkThemeToggle,
+  // DarkThemeToggle,
 } from "flowbite-react";
 
 import Image from "next/image";
