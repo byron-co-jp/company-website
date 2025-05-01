@@ -1,5 +1,0 @@
-1. next.js, supabase, tailwind css, flowbiteで作成
-2. サーバーも移管
-
-
-見た目マシにする
